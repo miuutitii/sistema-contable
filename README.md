@@ -16,7 +16,7 @@ El programa permite ingresar el nombre y la edad de una persona y, al presionar 
 
 ## ¿Quién lo creó?
 
-Creado por: [Vale Sazp]:
+Creado por: [Vale Sazo]:
 
 ## ¿Qué hace?
 
