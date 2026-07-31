@@ -14,7 +14,7 @@ Este proyecto consiste en un formulario desarrollado en Java utilizando la bibli
 
 ## ¿Quién lo creó?
 
-Creado por: **[Tu nombre completo]**
+Creado por: **[Valentina Sazo]**
 
 ## ¿Qué hace?
 
